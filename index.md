@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# [Ton Nom](https://simcopet.github.io/)
+# [Simon Copet](https://simcopet.github.io/)
 
 ---
 
-[Domaine 1] – [Domaine 2] – [Domaine 3]
+Localisation – Computational linguistics – Corpus linguistics – Game Studies
 
 ---
 
@@ -24,18 +24,21 @@ Socials
 
  | [Home](index.html) | [CV](resume.html) | [Projets](projects.html) | [Talks](talks.html) | [Formation](education.html) |
 
-### À propos de moi
+### About me
 
 [Un paragraphe de présentation : qui tu es, ton parcours, ce que tu fais actuellement, avec qui/où.]
 
-### Centres d'intérêt professionnels
+### Research Interests
 
-- [Intérêt 1]
-- [Intérêt 2]
-- [Intérêt 3]
+- MT/AI systems building
+- MT evaluation
+- Video game corpora building
+- Translation of new lexical creation (_irrealia_)
+- Fictional worlds analysis
 
-### Centres d'intérêt personnels
+### Personal Interests
 
-- [Intérêt 1]
-- [Intérêt 2]
-- [Intérêt 3]
+- Video game modding and reverse engineering
+- Zythology
+- RPGs and infiltration games
+- Cinema (Lynch, Kubrick, Von Trier, Pasolini)
