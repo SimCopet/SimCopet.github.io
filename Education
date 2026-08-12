@@ -1,4 +1,8 @@
-# [Ton Nom](https://TON-PSEUDO.github.io/)
+---
+layout: default
+---
+
+# [Ton Nom](https://simcopet.github.io/)
 
 ---
 
