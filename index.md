@@ -1,36 +1,34 @@
-# [Ton Nom]
+# [Ton Nom](https://TON-PSEUDO.github.io/)
 
 ---
 
-[Ton domaine 1] – [Ton domaine 2] – [Ton domaine 3]
+[Domaine 1] – [Domaine 2] – [Domaine 3]
 
 ---
 
-[Une phrase d'accroche décrivant ta page]
+[Une phrase d'accroche décrivant ta page ou ton profil]
 
-## Socials
-
----
-
-[GitHub](https://github.com/TON-PSEUDO)
-
-[LinkedIn](https://linkedin.com/in/TON-PROFIL)
-
-[Twitter/X](https://twitter.com/TON-PSEUDO)
-
-## Liens utiles
+Socials
 
 ---
 
-[Lien 1](https://exemple.com)
-[Lien 2](https://exemple.com)
-[Lien 3](https://exemple.com)
+[github.com/TON-PSEUDO](https://github.com/TON-PSEUDO)
+
+[linkedin.com/in/TON-PROFIL](https://linkedin.com/in/TON-PROFIL)
+
+[@TON-PSEUDO](https://twitter.com/TON-PSEUDO)
+
+Liens utiles
 
 ---
+
+[Lien 1](https://exemple.com) [Lien 2](https://exemple.com) [Lien 3](https://exemple.com)
+
+ | [Home](index.html) | [CV](resume.html) | [Projets](projects.html) | [Contact](contact.html) |
 
 ### À propos de moi
 
-[Un paragraphe de présentation : qui tu es, ton parcours, ce que tu fais actuellement, où, avec qui/quelle équipe éventuellement.]
+[Un paragraphe de présentation : qui tu es, ton parcours, ce que tu fais actuellement. Tu peux inclure des liens vers des sites/organisations comme ceci : [nom](https://exemple.com).]
 
 ### Centres d'intérêt professionnels
 
