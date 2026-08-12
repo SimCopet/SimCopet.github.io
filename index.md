@@ -1,4 +1,8 @@
-# [Ton Nom](https://TON-PSEUDO.github.io/)
+---
+layout: default
+---
+
+# [Ton Nom](https://simcopet.github.io/)
 
 ---
 
@@ -12,34 +16,26 @@ Socials
 
 ---
 
-[github.com/TON-PSEUDO](https://github.com/TON-PSEUDO)
+[github.com/SimCopet](https://github.com/SimCopet)
 
 [linkedin.com/in/TON-PROFIL](https://linkedin.com/in/TON-PROFIL)
 
 [@TON-PSEUDO](https://twitter.com/TON-PSEUDO)
 
-Liens utiles
-
----
-
-[Lien 1](https://exemple.com) [Lien 2](https://exemple.com) [Lien 3](https://exemple.com)
-
- | [Home](index.html) | [CV](resume.html) | [Projets](projects.html) | [Contact](contact.html) |
+ | [Home](index.html) | [CV](resume.html) | [Projets](projects.html) | [Talks](talks.html) | [Formation](education.html) |
 
 ### À propos de moi
 
-[Un paragraphe de présentation : qui tu es, ton parcours, ce que tu fais actuellement. Tu peux inclure des liens vers des sites/organisations comme ceci : [nom](https://exemple.com).]
+[Un paragraphe de présentation : qui tu es, ton parcours, ce que tu fais actuellement, avec qui/où.]
 
 ### Centres d'intérêt professionnels
 
 - [Intérêt 1]
 - [Intérêt 2]
 - [Intérêt 3]
-- [Intérêt 4]
 
 ### Centres d'intérêt personnels
 
 - [Intérêt 1]
 - [Intérêt 2]
 - [Intérêt 3]
-- [Intérêt 4]
