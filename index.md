@@ -26,14 +26,14 @@ Socials
 
 ### About me
 
-[Un paragraphe de présentation : qui tu es, ton parcours, ce que tu fais actuellement, avec qui/où.]
+[Me]
 
 ### Research Interests
 
 - MT/AI systems building
 - MT evaluation
 - Video game corpora building
-- Translation of new lexical creation (_irrealia_)
+- Translation of new lexical creations
 - Fictional worlds analysis
 
 ### Personal Interests
